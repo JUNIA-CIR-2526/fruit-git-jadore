@@ -1,6 +1,6 @@
 package com.jad;
 
-public abstract class  Fruit {
+public abstract class Fruit {
     public String getName(){
         return this.name;
     }
